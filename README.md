@@ -59,7 +59,10 @@ El 58% de los usados vendidos tiene entre 8 y 20 años. Normalizando por la cant
 Provincia de Buenos Aires (36%), Córdoba (12%), Santa Fe (9%) y CABA (9%).
 
 **5. Los usados más vendidos de hoy ya no se fabrican.**
-Gol, Fiesta, EcoSport, Clio y Ka lideran entre los usados, pero no se reponen. Entre los 0km más vendidos aparecen Yaris, Cronos, Territory, Tera y Onix: los usados del futuro.
+Los 0km más vendidos son Toyota Hilux, Toyota Yaris, Ford Ranger, Fiat Cronos, Ford Territory, VW Amarok, Toyota Corolla, Peugeot 208, VW Tera y Chevrolet Onix.
+- **Hilux, Amarok, Corolla y 208** están en el top 10 de los dos mercados.
+- **Gol, Fiesta, EcoSport, Clio y Ka** lideran entre los usados, pero no están entre los 0km: ya no se reponen.
+- **Yaris, Cronos, Territory, Tera y Onix** están en el top de 0km pero todavía no en el de usados: son los usados del futuro.
 
 **6. Las agencias trabajan con autos de la mitad de antigüedad.**
 Lo que compran y venden las agencias tiene en promedio **7,6 años**, contra **15 años** entre particulares. Evitan los modelos discontinuados y ya compran Cronos, Onix y Sandero.
@@ -68,7 +71,7 @@ Lo que compran y venden las agencias tiene en promedio **7,6 años**, contra **1
 
 1. **Concentrar el stock en autos de 8 a 12 años** (modelos 2014-2018).
 2. **Apuestas seguras:** Hilux, Amarok, Corolla y 208, que lideran tanto en usados como en 0km.
-3. **Las pickups son clave:** Hilux, Amarok y Ranger están entre las más vendidas en los dos mercados.
+3. **Las pickups son clave:** Hilux y Amarok están en el top 10 de usados y de 0km, y la Ranger es el tercer 0km más vendido.
 4. **Prepararse para el recambio:** a medida que Gol, Fiesta y Ka envejezcan, migrar el stock hacia Cronos, Onix, Yaris y Territory.
 
 ## Limitaciones
